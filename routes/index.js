@@ -5,7 +5,7 @@ const apiRoute = requie\re('/api');
 //Set the routes for express to use
 router.use('/api', apiRoutes);
 router.use((req,res) =>{
-  res.send("wrong route)
+  res.send("wrong route")
            });          
 
 module.exports = router;
