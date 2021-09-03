@@ -58,7 +58,7 @@ The apps used to run
 
 ## Mock Up
 
- [screen shots]
+ [screen shots: https://github.com/jlhickey/E-Commerce-Back-End/blob/main/Screen%20Recording%202021-09-03%20at%207.34.46%20PM.mov
   
  
  [screen shots]      
