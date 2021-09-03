@@ -67,7 +67,7 @@ The apps used to run
 
 
 ## MY REPOSITORIES
-- [My Employee-Tracker Project: https://github.com/jlhickey/E-Commerce-Back_end]
+- [My Employee-Tracker Project: https://github.com/jlhickey/E-Commerce-Back_End]
 - [MyGitHub: https://github.com/jlhickey]
 
  
