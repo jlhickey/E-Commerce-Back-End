@@ -49,7 +49,6 @@ The apps used to run
 * Node.js
 * Console.Table
 * MYSQL
-* MYSQL2
 * Inquire Package
 
 1) run "npm i" to install the modules
