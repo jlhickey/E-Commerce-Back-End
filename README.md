@@ -61,7 +61,7 @@ The apps used to run
  [screen shots: https://github.com/jlhickey/E-Commerce-Back-End/blob/main/Screen%20Recording%202021-09-03%20at%207.34.46%20PM.mov
   
  
- [screen shots]      
+ [screen shots: https://github.com/jlhickey/E-Commerce-Back-End/blob/main/Screen%20Recording%202021-09-03%20at%207.36.27%20PM.mov
  
 
 
