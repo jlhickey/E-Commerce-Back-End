@@ -78,7 +78,7 @@ ISC
 
 
 ## MY REPOSITORIES
-- [My Employee-Tracker Project: https://github.com/jlhickey/E-Commerce-Back_End]
+- [My E-Commerce-Back-End Project: https://github.com/jlhickey/E-Commerce-Back_End]
 - [MyGitHub: https://github.com/jlhickey]
 
  
