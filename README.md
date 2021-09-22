@@ -10,7 +10,7 @@
 3. [Installation](#Installation)
 5. [Liscence](#Liscence)
 6. [Mock Up](#MockUp)
-7. [Repositories](#Repositories)
+7. [My Repositories](#MyRepositories)
 
  ## User Story
 AS A business owner
