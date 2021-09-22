@@ -2,7 +2,7 @@
 
 
 # ![GitHub license](https://img.shields.io/badge/Made%20by-%40jlhickey-orange)
-# ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# ![GitHub license](https://img.shields.io/badge/license-ISC-red.svg)
 
 ## Table of Contents
 1. [User Story](#UserStory)
@@ -65,7 +65,7 @@ The apps used to run
 4) Use Insomnia to call the server.
 
 ## Liscence
-
+ISC
 
 ## Mock Up
 
