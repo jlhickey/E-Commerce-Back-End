@@ -4,7 +4,15 @@
 # ![GitHub license](https://img.shields.io/badge/Made%20by-%40jlhickey-orange)
 # ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## User Story
+## Table of Contents
+1. [User Story](#UserStory)
+2. [Acceptance Criteria](#AcceptanceCriteria)
+3. [Installation](#Installation)
+5. [Liscence](#Liscence)
+6. [Mock Up](#MockUp)
+7. [Repositories](#Repositories)
+
+ ## User Story
 AS A business owner
 I WANT to be able to view and manage the departments, roles, and employees in my company
 SO THAT I can organize and plan my business.
@@ -55,6 +63,9 @@ The apps used to run
 2) rum "source db/schema.sql" and "source db/seed.sql' to seed the database
 3) run "node server.js".  
 4) Use Insomnia to call the server.
+
+## Liscence
+
 
 ## Mock Up
 
