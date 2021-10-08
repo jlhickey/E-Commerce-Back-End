@@ -10,7 +10,8 @@
 3. [Installation](#Installation)
 5. [Liscence](#Liscence)
 6. [Mock Up](#MockUp)
-7. [My Repositories](#MyRepositories)
+7. [Photos](#Photos)
+8. [My Repositories](#MyRepositories)
 
  ## User Story
 AS A business owner
@@ -75,8 +76,8 @@ ISC
  [screen shots: https://github.com/jlhickey/E-Commerce-Back-End/blob/main/Screen%20Recording%202021-09-03%20at%207.36.27%20PM.mov
  
 
-
-
+## Photos
+![Alt text]
 ## MY REPOSITORIES
 - [My E-Commerce-Back-End Project: https://github.com/jlhickey/E-Commerce-Back-End]
 - [MyGitHub: https://github.com/jlhickey]
