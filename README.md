@@ -71,14 +71,14 @@ ISC
 ## Mock Up
 Here are a couple of examples of my program.  
 
- [screen shots: https://drive.google.com/file/d/1ZIEenGRaN02TjaikwWLt5rA5vK4oGGXK/view?usp=sharing]
+ [clip: https://drive.google.com/file/d/1ZIEenGRaN02TjaikwWLt5rA5vK4oGGXK/view?usp=sharing]
  
- [screen shots: https://watch.screencastify.com/v/R35Dn8vY2GgfIrJASwc5]
+ [clip: https://watch.screencastify.com/v/R35Dn8vY2GgfIrJASwc5]
 
 ## Photos
 Here are a couple pictures of my work.
-![Alt text] https://github.com/jlhickey/E-Commerce-Back-End/blob/main/ecomm1.png]
-![Alt text] https://github.com/jlhickey/E-Commerce-Back-End/blob/main/ecomm2.png]
+![screen shot] https://github.com/jlhickey/E-Commerce-Back-End/blob/main/ecomm1.jpg]
+![screen shot] https://github.com/jlhickey/E-Commerce-Back-End/blob/main/ecomm2.jpg]
 
 ## MY REPOSITORIES
 - [My E-Commerce-Back-End Project: https://github.com/jlhickey/E-Commerce-Back-End]
