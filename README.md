@@ -76,9 +76,9 @@ Here are a couple of examples of my program.
  [clip: https://watch.screencastify.com/v/R35Dn8vY2GgfIrJASwc5]
 
 ## Photos<br>
-Here are a couple pictures of my work.
-![screen shot] https://github.com/jlhickey/E-Commerce-Back-End/blob/main/ecomm1.jpg?raw=true<br>
-![screen shot] https://github.com/jlhickey/E-Commerce-Back-End/blob/main/ecomm2.jpg?raw=true
+Here are a couple pictures of my work.<br>
+[screen shot] https://github.com/jlhickey/E-Commerce-Back-End/blob/main/ecomm1.jpg?raw=true<br>
+[screen shot] https://github.com/jlhickey/E-Commerce-Back-End/blob/main/ecomm2.jpg?raw=true
 
 ## MY REPOSITORIES
 - [My E-Commerce-Back-End Project: https://github.com/jlhickey/E-Commerce-Back-End]
