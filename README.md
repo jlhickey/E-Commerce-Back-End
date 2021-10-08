@@ -2,7 +2,7 @@
 
 
 # ![GitHub license](https://img.shields.io/badge/Made%20by-%40jlhickey-orange)
-# ![GitHub license](https://img.shields.io/badge/license-ISC-red.svg)
+# ![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
 
 ## Table of Contents
 1. [User Story](#UserStory)
@@ -71,14 +71,14 @@ ISC
 ## Mock Up
 Here are a couple of examples of my program.  
 
- [screen shots: https://drive.google.com/file/d/1ZIEenGRaN02TjaikwWLt5rA5vK4oGGXK/view?usp=sharing  
+ [screen shots: https://drive.google.com/file/d/1ZIEenGRaN02TjaikwWLt5rA5vK4oGGXK/view?usp=sharing]
  
- [screen shots: https://watch.screencastify.com/v/R35Dn8vY2GgfIrJASwc5
+ [screen shots: https://watch.screencastify.com/v/R35Dn8vY2GgfIrJASwc5]
 
 ## Photos
 Here are a couple pictures of my work.
-![Alt text] https://github.com/jlhickey/E-Commerce-Back-End/blob/main/ecomm1.png
-![Alt text] https://github.com/jlhickey/E-Commerce-Back-End/blob/main/ecomm2.png
+![Alt text] https://github.com/jlhickey/E-Commerce-Back-End/blob/main/ecomm1.png]
+![Alt text] https://github.com/jlhickey/E-Commerce-Back-End/blob/main/ecomm2.png]
 
 ## MY REPOSITORIES
 - [My E-Commerce-Back-End Project: https://github.com/jlhickey/E-Commerce-Back-End]
