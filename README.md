@@ -71,9 +71,9 @@ ISC
 ## Mock Up
 Here are a couple of examples of my program.  
 
- https://drive.google.com/file/d/1ZIEenGRaN02TjaikwWLt5rA5vK4oGGXK/view?usp=sharing]
- 
-https://watch.screencastify.com/v/R35Dn8vY2GgfIrJASwc5]
+ https://drive.google.com/file/d/1ZIEenGRaN02TjaikwWLt5rA5vK4oGGXK/view?usp=sharing
+
+ https://watch.screencastify.com/v/R35Dn8vY2GgfIrJASwc5
 
 ## Photos<br>
 Here are a couple pictures of my work.<br>
